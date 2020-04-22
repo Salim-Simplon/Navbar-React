@@ -1,12 +1,12 @@
 a {
-  display: inline;
   list-style: none;
   padding-left: 19px;
   color: black;
   text-decoration: underline white;
+  margin-top: 10%;
 }
 
 #first {
-  color: #b92626;
-  text-decoration: overline #b92626;
+  color: #ce003c;
+  text-decoration: overline #ce003c;
 }

@@ -1,10 +1,32 @@
 .App {
-  text-align: center;
-  border: #6b6b6b solid;
+  display: flex;
+  border-bottom: #ce003c solid 3px;
   border-radius: 0 0 25px 25px;
   font-family: fantasy;
   margin-left: 15%;
   margin-right: 15%;
-  padding-bottom: 1%;
-  vertical-align: middle;
+  padding-top: 1%;
+  padding-bottom: 0.5%;
+  align-items: center;
+  box-shadow: 6px 6px 12px #221313;
 }
+/*
+img {
+  width: 15%;
+  padding-right: 40%;
+  padding-top: 1%;
+}
+
+a {
+  display: inline;
+  list-style: none;
+  padding-left: 19px;
+  color: black;
+  text-decoration: underline white;
+}
+
+#first {
+  color: #b92626;
+  text-decoration: overline #b92626;
+}
+*/
