@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  border: #6b6b6b solid;
+  border-radius: 0 0 25px 25px;
+  font-family: fantasy;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-bottom: 1%;
+  vertical-align: middle;
+}
